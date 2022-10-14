@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weatherify/static/css/main.777b9b0e.css",
-    "main.js": "/weatherify/static/js/main.d59e29b4.js",
+    "main.js": "/weatherify/static/js/main.7503fe6d.js",
     "static/media/background1.webp": "/weatherify/static/media/background1.fa857c6f3f613e17dae7.webp",
     "static/media/background2.webp": "/weatherify/static/media/background2.20229eb97bf8b7a951b6.webp",
     "index.html": "/weatherify/index.html",
     "main.777b9b0e.css.map": "/weatherify/static/css/main.777b9b0e.css.map",
-    "main.d59e29b4.js.map": "/weatherify/static/js/main.d59e29b4.js.map"
+    "main.7503fe6d.js.map": "/weatherify/static/js/main.7503fe6d.js.map"
   },
   "entrypoints": [
     "static/css/main.777b9b0e.css",
-    "static/js/main.d59e29b4.js"
+    "static/js/main.7503fe6d.js"
   ]
 }
